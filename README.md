@@ -57,6 +57,9 @@ User-friendly interface:
 
 ## 🏗 Architecture Diagram
 
+
+<img width="500" height="500" alt="architecture" src="https://github.com/user-attachments/assets/dba23831-1efd-408b-9dec-d9b64929d041" />
+
 ```
        ┌──────────────────────┐
        │     User Uploads      │
@@ -220,6 +223,7 @@ This includes:
 ## 🎥 Demo Video
 
 
+https://github.com/user-attachments/assets/5044f46d-883c-415e-9e4c-7bd21576ca01
 
 
 ## 🏁 Challenge Submission Checklist
